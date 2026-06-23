@@ -232,7 +232,7 @@ Return:
 ```javascript
 [0, 1]
 ```
-
+`````
 ---
 
 ## Why do we check before storing?
